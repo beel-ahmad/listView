@@ -3,8 +3,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        jcenter() // Warning: this repository is going to shut down soon
+        jcenter()
     }
 }
-rootProject.name = "Lecture12_13_ListViews"
+rootProject.name = "ListViews"
 include ':app'
+
+
